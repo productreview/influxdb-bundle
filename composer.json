@@ -1,5 +1,5 @@
 {
-    "name": "algatux/influxdb-bundle",
+    "name": "productreview/influxdb-bundle",
     "description": "Bundle service integration of official influxdb/influxdb-php client",
     "keywords": ["InfluxDB", "Symfony", "database"],
     "type": "symfony-bundle",
