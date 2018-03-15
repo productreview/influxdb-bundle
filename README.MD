@@ -14,7 +14,7 @@ Bundle service integration of official [influxdb/influxdb-php](https://github.co
 First of all, you need to require this library through composer:
 
 ```bash
-composer require algatux/influxdb-bundle
+composer require productreview/influxdb-bundle
 ```
 
 Then, enable the bundle on the `AppKernel` class:
